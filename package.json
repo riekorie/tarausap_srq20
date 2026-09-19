@@ -37,7 +37,7 @@
     "npm-run-all2": "^9.0.3",
     "oxlint": "~1.82.0",
     "prettier": "3.9.6",
-    "typescript": "npm:typescript-native-bridge@latest",
+    "typescript": "^5.9.3",
     "vite": "^8.2.2",
     "vite-plugin-vue-devtools": "^8.2.1",
     "vue-eslint-parser": "^10.4.1",
@@ -59,7 +59,6 @@
     "@vue/runtime-vapor": "rc",
     "@vue/server-renderer": "rc",
     "@vue/shared": "rc",
-    "@vue/compat": "rc",
-    "typescript": "npm:typescript-native-bridge@latest"
+    "@vue/compat": "rc"
   }
 }
